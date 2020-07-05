@@ -1,10 +1,3 @@
-## TypeScript-Axios
-
-TypeScript 从入门到实战
-
-### 基本类型
-
-```ts
 // 基础类型 boolean number string null undfined void symbol
 let count;
 count = 20;
@@ -25,4 +18,3 @@ console.log(funcjing('5201314'));
 
 let temp: number | string = 123; //联合类型
 temp = '111';
-```
